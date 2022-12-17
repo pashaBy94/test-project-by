@@ -1,3 +1,3 @@
-console.log('hello');
-console.log('by');
-let a = 88;
+function func(a, b){
+ return this
+}
